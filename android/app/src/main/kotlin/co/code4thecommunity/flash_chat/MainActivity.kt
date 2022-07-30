@@ -1,0 +1,6 @@
+package co.code4thecommunity.flash_chat
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
