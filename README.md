@@ -1,7 +1,6 @@
 # flash_chat_flutter
 
-
-The base starter project for the flutter Flash Chat App created in the [Flutter course](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
+The complete project for the flutter Flash Chat App created in the [Flutter course](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
 
 *This is an open-source initiative for the community*
 
