@@ -13,6 +13,7 @@ The base starter project for the flutter Flash Chat App created in the [Flutter 
 ## Index
 - [Video 174](#Video-174)
 - [Video 176](#Video-176)
+- [Video 177](#Video-177)
 
 
 ## Video-174
@@ -21,3 +22,8 @@ The base starter project for the flutter Flash Chat App created in the [Flutter 
 
 ## Video-176
 - ```TypeWriterAnimatedTextKit``` of the ```animated_text_kit``` package has been deprecated. So, use the appropriate widget instead. Check out the typewriter example mentioned in the example and README of the package site on pub.dev
+
+## Video-177
+- The ```@required``` syntax is deprecated in favor of ```required```. So just use the word without the ```@```
+- The ```final Function onPressed``` needs to be updated to ```final Function() onPressed``` or to ```final VoidCallback onPressed```
+
